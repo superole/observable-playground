@@ -72,7 +72,7 @@ This should start a dev server.
 
 All the examples are contained in markdown .md files, that are pretty easy to update, even via github.com itself.
 
-NOTE: This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You will find some information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md)
+NOTE: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). You will find some information on how to perform common tasks [here](https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md)
 
 ## Credits
 
